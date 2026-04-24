@@ -7,13 +7,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vigneshwar-naik-8982a118a">
+  <a href="https://www.linkedin.com/in/vigneshwar-vasudev-naik-8982a118a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:vighneshwarnaik603@gmail.com">
+
+  <a href="mailto:vighneshwarnaik603@gmail.com?subject=Hello%20Vigneshwar">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/VigneshwarNaik">
+
+  <a href="https://github.com/VigneshwarNaik" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
