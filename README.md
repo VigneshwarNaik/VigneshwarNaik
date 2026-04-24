@@ -120,7 +120,7 @@ Focused on backend systems, scalable applications, and clean architecture.
 ## 🤝 Connect With Me
 
 * 📧 **Email:** [vighneshwarnaik603@gmail.com](mailto:vighneshwarnaik603@gmail.com)
-* 🔗 **LinkedIn:** https://www.linkedin.com/in/vigneshwar-naik-8982a118a
+* 🔗 **LinkedIn:** [https://www.linkedin.com/in/vigneshwar-naik-8982a118a](https://www.linkedin.com/in/vigneshwar-vasudev-naik-8982a118a/)
 * 💻 **GitHub:** https://github.com/VigneshwarNaik
 
 ---
